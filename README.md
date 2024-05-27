@@ -1,16 +1,14 @@
-## Opa.
+## Fala cmg
 
-<!--
-**Cravador23/Cravador23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yan(Melhor ponteiro do Active)
 
-Here are some ideas to get you started:
+- To só fazendo o curso do Alura
+- Te amo Cíntia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Meu contato:
+
+(16) 99741-6662
+
+![](https://media1.tenor.com/m/8_Z8H7I6YKoAAAAd/bolsonaro-gamer.gif)
